@@ -1,0 +1,1 @@
+This machine learning project implements a Decision Tree Classifier to predict whether a batsman is "Out" or "Not Out" based on ball trajectory data during an LBW Review. The model is trained using scikit-learn, and models technology used in proffesional cricket matches, used for replays and in the Decision Review System(DRS).
